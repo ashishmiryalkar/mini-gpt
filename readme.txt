@@ -33,4 +33,17 @@ Part 3: Training and Inference.
     Validating the model.
     Generating text from the data.
 
+Some results after the training.
+with lr - 0.0004 and after 10 epoch of training.
+
+Input : Every effort moves you
+Response : Every effort moves you?"  "Yes--quite insensible to the irony.
+           She wanted him vindicated--and by me!"  He laughed again, and 
+           threw back his head to look up at the sketch of the donkey. 
+           "There were days when I
+
+loss image: image1.png
+
 References : Build a Large Language Model ( from scratch ) - sebastian Raschaka.
+             Attention is all you need ( Google ).
+
